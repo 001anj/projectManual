@@ -1,2 +1,2 @@
 # projectManual
-Manual test cases for a form
+Manual test cases for a account information form
